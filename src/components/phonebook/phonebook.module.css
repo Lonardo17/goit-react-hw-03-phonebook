@@ -1,0 +1,17 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    outline: #000 solid;
+    padding: 10px;
+}
+.label{
+    padding-bottom: 10px;
+}
+.input{
+    padding-left: 10px;
+}
+.button{
+    width: 100px;
+    margin-left: 100px;
+}
